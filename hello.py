@@ -5,3 +5,4 @@ print("Salem!")
 print("Қош келдініздер!")
 
 print("Мен git-ті үйренгім келеді")
+print("Thank you Linus Torvalds!")
