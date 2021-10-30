@@ -1,1 +1,6 @@
 Landau
+Kapica
+Vavilov
+Korolev
+Keldysh
+Kurchatov
