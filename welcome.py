@@ -4,7 +4,7 @@ print("git diff command")
 
 def test(num):
     //dsmdkms
-    return ?
+    return "Test Function"
 
 a = test(1236)
 a == 6
